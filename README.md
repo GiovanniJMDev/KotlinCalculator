@@ -14,11 +14,13 @@ Esta es una aplicación Android simple desarrollada en **Kotlin** que permite al
 ## Capturas de Pantalla
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0efa01c7-ff09-4e9e-bdcd-9500891c1535" alt="Error primer input" style="height: 300px; width: auto;" />
+  <img src="https://github.com/user-attachments/assets/0efa01c7-ff09-4e9e-bdcd-9500891c1535" alt="Error ambos inputs" style="height: 300px; width: auto;" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e2b1cf5-cc91-4d77-82e6-73aae38c344a
-" alt="Error segundo input" style="height: 300px; width: auto;" />
+  <img src="https://github.com/user-attachments/assets/25e856ab-8683-47f8-bbdb-7ed54238cf7a" alt="Error primer input" style="height: 300px; width: auto;" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db0c35eb-68c2-4302-9d69-3d1a95afdd95" alt="Error segundo input" style="height: 300px; width: auto;" />
 </p>
 
 
